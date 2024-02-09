@@ -1,0 +1,7 @@
+E:\All study meterials\6th semister fall\OBJECT ORIENTED PROGRAMMING 2 [Q]\C# Codes\consoleAppStruct\consoleAppStruct\bin\Debug\consoleAppStruct.exe.config
+E:\All study meterials\6th semister fall\OBJECT ORIENTED PROGRAMMING 2 [Q]\C# Codes\consoleAppStruct\consoleAppStruct\bin\Debug\consoleAppStruct.exe
+E:\All study meterials\6th semister fall\OBJECT ORIENTED PROGRAMMING 2 [Q]\C# Codes\consoleAppStruct\consoleAppStruct\bin\Debug\consoleAppStruct.pdb
+E:\All study meterials\6th semister fall\OBJECT ORIENTED PROGRAMMING 2 [Q]\C# Codes\consoleAppStruct\consoleAppStruct\obj\Debug\consoleAppStruct.csproj.AssemblyReference.cache
+E:\All study meterials\6th semister fall\OBJECT ORIENTED PROGRAMMING 2 [Q]\C# Codes\consoleAppStruct\consoleAppStruct\obj\Debug\consoleAppStruct.csproj.CoreCompileInputs.cache
+E:\All study meterials\6th semister fall\OBJECT ORIENTED PROGRAMMING 2 [Q]\C# Codes\consoleAppStruct\consoleAppStruct\obj\Debug\consoleAppStruct.exe
+E:\All study meterials\6th semister fall\OBJECT ORIENTED PROGRAMMING 2 [Q]\C# Codes\consoleAppStruct\consoleAppStruct\obj\Debug\consoleAppStruct.pdb
