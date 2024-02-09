@@ -1,0 +1,7 @@
+E:\All study meterials\6th semister fall\OBJECT ORIENTED PROGRAMMING 2 [Q]\C# Codes\Main\Main\bin\Debug\Main.exe.config
+E:\All study meterials\6th semister fall\OBJECT ORIENTED PROGRAMMING 2 [Q]\C# Codes\Main\Main\bin\Debug\Main.exe
+E:\All study meterials\6th semister fall\OBJECT ORIENTED PROGRAMMING 2 [Q]\C# Codes\Main\Main\bin\Debug\Main.pdb
+E:\All study meterials\6th semister fall\OBJECT ORIENTED PROGRAMMING 2 [Q]\C# Codes\Main\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+E:\All study meterials\6th semister fall\OBJECT ORIENTED PROGRAMMING 2 [Q]\C# Codes\Main\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+E:\All study meterials\6th semister fall\OBJECT ORIENTED PROGRAMMING 2 [Q]\C# Codes\Main\Main\obj\Debug\Main.exe
+E:\All study meterials\6th semister fall\OBJECT ORIENTED PROGRAMMING 2 [Q]\C# Codes\Main\Main\obj\Debug\Main.pdb
