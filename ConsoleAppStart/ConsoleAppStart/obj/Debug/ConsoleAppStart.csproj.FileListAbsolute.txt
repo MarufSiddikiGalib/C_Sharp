@@ -1,0 +1,7 @@
+C:\Users\HASIB\Dropbox\AIUB\25. Fall 2023-24\OOP-2\Projects\ConsoleAppStart\ConsoleAppStart\bin\Debug\ConsoleAppStart.exe.config
+C:\Users\HASIB\Dropbox\AIUB\25. Fall 2023-24\OOP-2\Projects\ConsoleAppStart\ConsoleAppStart\bin\Debug\ConsoleAppStart.exe
+C:\Users\HASIB\Dropbox\AIUB\25. Fall 2023-24\OOP-2\Projects\ConsoleAppStart\ConsoleAppStart\bin\Debug\ConsoleAppStart.pdb
+C:\Users\HASIB\Dropbox\AIUB\25. Fall 2023-24\OOP-2\Projects\ConsoleAppStart\ConsoleAppStart\obj\Debug\ConsoleAppStart.csprojAssemblyReference.cache
+C:\Users\HASIB\Dropbox\AIUB\25. Fall 2023-24\OOP-2\Projects\ConsoleAppStart\ConsoleAppStart\obj\Debug\ConsoleAppStart.csproj.CoreCompileInputs.cache
+C:\Users\HASIB\Dropbox\AIUB\25. Fall 2023-24\OOP-2\Projects\ConsoleAppStart\ConsoleAppStart\obj\Debug\ConsoleAppStart.exe
+C:\Users\HASIB\Dropbox\AIUB\25. Fall 2023-24\OOP-2\Projects\ConsoleAppStart\ConsoleAppStart\obj\Debug\ConsoleAppStart.pdb
