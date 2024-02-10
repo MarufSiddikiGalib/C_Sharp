@@ -1,0 +1,7 @@
+C:\Users\HASIB\Dropbox\AIUB\25. Fall 2023-24\OOP-2\Projects\ConsoleAppStructQ\ConsoleAppStructQ\bin\Debug\ConsoleAppStructQ.exe.config
+C:\Users\HASIB\Dropbox\AIUB\25. Fall 2023-24\OOP-2\Projects\ConsoleAppStructQ\ConsoleAppStructQ\bin\Debug\ConsoleAppStructQ.exe
+C:\Users\HASIB\Dropbox\AIUB\25. Fall 2023-24\OOP-2\Projects\ConsoleAppStructQ\ConsoleAppStructQ\bin\Debug\ConsoleAppStructQ.pdb
+C:\Users\HASIB\Dropbox\AIUB\25. Fall 2023-24\OOP-2\Projects\ConsoleAppStructQ\ConsoleAppStructQ\obj\Debug\ConsoleAppStructQ.csprojAssemblyReference.cache
+C:\Users\HASIB\Dropbox\AIUB\25. Fall 2023-24\OOP-2\Projects\ConsoleAppStructQ\ConsoleAppStructQ\obj\Debug\ConsoleAppStructQ.csproj.CoreCompileInputs.cache
+C:\Users\HASIB\Dropbox\AIUB\25. Fall 2023-24\OOP-2\Projects\ConsoleAppStructQ\ConsoleAppStructQ\obj\Debug\ConsoleAppStructQ.exe
+C:\Users\HASIB\Dropbox\AIUB\25. Fall 2023-24\OOP-2\Projects\ConsoleAppStructQ\ConsoleAppStructQ\obj\Debug\ConsoleAppStructQ.pdb
