@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAppGenericH", "CAppGenericH\CAppGenericH.csproj", "{FAD431A0-0E10-418C-994F-AD89D8691233}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAD431A0-0E10-418C-994F-AD89D8691233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD431A0-0E10-418C-994F-AD89D8691233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD431A0-0E10-418C-994F-AD89D8691233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD431A0-0E10-418C-994F-AD89D8691233}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C25898F-BB38-4DD3-B96C-C9B1C27B7F3E}
+	EndGlobalSection
+EndGlobal
